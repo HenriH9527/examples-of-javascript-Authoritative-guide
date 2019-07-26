@@ -1,9 +1,7 @@
 # examples-of-javascript-Authoritative-guide
-some important examples in the javascript Authoritative guide.
-
 ![](https://github.com/VincentHyf/examples-of-javascript-Authoritative-guide/blob/master/img/rhinoceros.jpg)
 
-##### 《javascript权威指南》中在不同模块下的示例代码，有些例子因为javascript的不断更新已经不能正常运行了，在这里将这些示例代码拿出来，然后更新这些代码，并使之能够正常运行
+#### 《javascript权威指南》中在不同模块下的示例代码，并为了正常运行的情况下做了略微改动与新增
 
 
 
@@ -11,5 +9,6 @@ some important examples in the javascript Authoritative guide.
 
 ##### 示例一：贷款计算器
 
-
+[贷款计算器源码]: https://github.com/VincentHyf/examples-of-javascript-Authoritative-guide/blob/master/code/load_calcuate/loan_calcuate.html
+[贷款计算器后台（提供链接）]: https://github.com/VincentHyf/examples-of-javascript-Authoritative-guide/blob/master/code/load_calcuate/dna.js
 
