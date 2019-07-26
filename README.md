@@ -9,6 +9,7 @@
 
 ##### 示例一：贷款计算器
 
-[贷款计算器源码]: https://github.com/VincentHyf/examples-of-javascript-Authoritative-guide/blob/master/code/load_calcuate/loan_calcuate.html
-[贷款计算器后台（提供链接）]: https://github.com/VincentHyf/examples-of-javascript-Authoritative-guide/blob/master/code/load_calcuate/dna.js
+[贷款计算器源码](https://github.com/VincentHyf/examples-of-javascript-Authoritative-guide/blob/master/code/load_calcuate/loan_calcuate.html)
+
+[贷款计算器后台（提供链接功能）](https://github.com/VincentHyf/examples-of-javascript-Authoritative-guide/blob/master/code/load_calcuate/dna.js)
 
